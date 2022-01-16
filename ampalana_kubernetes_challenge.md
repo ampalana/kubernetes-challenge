@@ -2,7 +2,7 @@
 * do-k8s-challenge-kubegres
  
 ## Link to Your Github or Gitlab Repo
-* https://github.com/ampalana/digital_oceangres
+* https://github.com/ampalana/digital_ocean
 
 ## Link to Your Project Writeup
 * https://github.com/ampalana/digital_ocean/blob/main/ampalana_kuberneteschallenge.md
